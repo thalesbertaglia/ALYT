@@ -22,8 +22,8 @@ We initially retrieved all comments from the videos (excluding replies), then fi
 Finally, we randomly sampled 20k comments to be annotated.
 
 - Time periods:
-- The publication date of the videos ranged from 2016 to 2019.
-- We collected the comments between April and May of 2020.
+ - The publication date of the videos ranged from 2016 to 2019.
+ - We collected the comments between April and May of 2020.
 
 ## B. LANGUAGE VARIETY/VARIETIES
 
