@@ -1,6 +1,8 @@
 # ALYT: Abusive Language on YouTube
 
-This repository contains:
+[Paper link](https://aclanthology.org/2021.woah-1.20)
+
+This repository contains the data from the paper *Abusive Language on Social Media Through the Legal Looking Glass*, including:
 
 - the Abusive Language on YouTube dataset;
 - the data statement related to the dataset;
